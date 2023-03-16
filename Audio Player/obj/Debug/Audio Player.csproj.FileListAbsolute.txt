@@ -1,0 +1,27 @@
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\bin\Debug\Audio Player.exe.config
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\bin\Debug\Audio Player.exe
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\bin\Debug\Audio Player.pdb
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\bin\Debug\taglib-sharp.dll
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.csproj.AssemblyReference.cache
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\AddAudioWind.g.cs
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\CreateListWind.g.cs
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\MainWindow.g.cs
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\MyDialogWindow.g.cs
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\App.g.cs
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player_MarkupCompile.cache
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player_MarkupCompile.lref
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\App.baml
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\AddAudioWind.baml
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\CreateListWind.baml
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\MainWindow.baml
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\MyDialogWindow.baml
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.g.resources
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio_Player.Properties.Resources.resources
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.csproj.GenerateResource.cache
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.csproj.CoreCompileInputs.cache
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.csproj.CopyComplete
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.exe
+C:\Users\Ксандр\Desktop\WPF-Audio-Player-master\Audio Player\obj\Debug\Audio Player.pdb
